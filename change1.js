@@ -7,3 +7,5 @@ var stash = `practice5: stash-dev`;
 
 console.log("new line");
 console.log("test command line message");
+
+console.log("oooooo")
