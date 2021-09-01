@@ -6,3 +6,4 @@ var change4 = `practice4: recommit1 again`;
 var stash = `practice5: stash-dev`;
 
 console.log("new line");
+console.log("test command line message");
