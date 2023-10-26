@@ -20,3 +20,4 @@ console.log("cherry pick3");
 
 console.log("Hello, git flow.");
 console.log("Hello again.");
+console.log("Hello again.");
