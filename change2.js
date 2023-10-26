@@ -14,19 +14,7 @@ console.log("cherry pick1");
 
 console.log("cherry pick2");
 
+// Git flow
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log("Hello, git flow.");
+console.log("Hello again.");
