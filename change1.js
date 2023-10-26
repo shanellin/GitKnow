@@ -12,8 +12,6 @@ var change5 = `practice5: recommit1 again`;
 console.log("new line");
 console.log("test command line message");
 
-console.log("oooooo");
-
 console.log("cherry pick3");
 
 // Git flow
