@@ -20,4 +20,3 @@ console.log("Helloooooo, git flow.");
 console.log("Hello again.");
 console.log("Hello again.");
 console.log("Hello again.");
-console.log("Hello again.");
